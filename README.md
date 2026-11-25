@@ -1,16 +1,16 @@
 # Nexus A.I.
 
-Pagina educativa sobre inteligencia artificial, redes neurais e processamento de dados.
+Página educativa sobre inteligência artificial, redes neurais e processamento de dados.
 
-O site usa uma linguagem visual futurista para explicar, de forma simples, como maquinas coletam dados, treinam modelos e executam respostas. Tambem inclui um pequeno terminal de simulacao para dar mais vida a pagina.
+O site usa uma linguagem visual futurista para explicar, de forma simples, como máquinas coletam dados, treinam modelos e executam respostas. Também inclui um pequeno terminal de simulação para dar mais vida à página.
 
-## O que tem na pagina
+## O que tem na página
 
-- Header com navegacao.
+- Header com navegação.
 - Menu dropdown em Redes Neurais.
 - Hero com chamada sobre IA.
-- Secao explicando coleta, treinamento e execucao.
-- Terminal de simulacao com botao de processamento.
+- Seção explicando coleta, treinamento e execução.
+- Terminal de simulação com botao de processamento.
 - Rodape com credito para Ana Julia Pires e Ricardo Juliano Jr.
 
 ## Stack
@@ -28,12 +28,12 @@ O site usa uma linguagem visual futurista para explicar, de forma simples, como 
 └── script.js
 ```
 
-## Rodando
+## Como rodar
 
 Abra o arquivo `index.html` no navegador.
 
-Nao ha instalacao de dependencias nem etapa de build.
+Não há instalação de dependencias nem etapa de build.
 
-## Observacoes
+## Observações
 
-O projeto e uma pagina estatica de estudo/apresentacao. O simulador e visual/interativo, nao uma IA real conectada a algum modelo.
+O projeto é uma página estática de estudo/apresentação. O simulador e visual/interativo, não uma IA real conectada a algum modelo.
